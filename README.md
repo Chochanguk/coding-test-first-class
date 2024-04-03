@@ -7,9 +7,9 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"  width="16.66%"><a href="https://github.com/Chochanguk"><img src="https://avatars.githubusercontent.com/u/119058637?v=4" width="100px;" alt="조창욱"/><br /><sub><b>조창욱</b></sub></a><br /> 1기 팀장 </td>
-      <td align="center"  width="16.66%"><a href="https://github.com/juhno1023"><img src="https://avatars.githubusercontent.com/u/114224596?s=64&v=4" width="100px;" alt="주현욱"/><br /><sub><b>주현욱</b></sub></a><br /> 1기 멤버 </td>
-        <td align="center"  width="16.66%"><a href="https://github.com/jjhoooon"><img src="https://avatars.githubusercontent.com/u/58600024?v=4" width="100px;" alt="장재훈"/><br /><sub><b>장재훈</b></sub></a><br /> 1기 멤버 </td>  
+      <td align="center"  width="16.66%"><a href="https://github.com/Chochanguk"><img src="https://avatars.githubusercontent.com/u/119058637?v=4" width="100px;" alt="조창욱"/><br /><sub><b>조창욱(dev_cu)</b></sub></a><br /> 1기 팀장 </td>
+      <td align="center"  width="16.66%"><a href="https://github.com/juhno1023"><img src="https://avatars.githubusercontent.com/u/114224596?s=64&v=4" width="100px;" alt="주현욱"/><br /><sub><b>주현욱(dev_hu)</b></sub></a><br /> 1기 멤버 </td>
+        <td align="center"  width="16.66%"><a href="https://github.com/jjhoooon"><img src="https://avatars.githubusercontent.com/u/58600024?v=4" width="100px;" alt="장재훈"/><br /><sub><b>장재훈(dev_jh)</b></sub></a><br /> 1기 멤버 </td>  
   </tbody>
 </table>
 </br>
