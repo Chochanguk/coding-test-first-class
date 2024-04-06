@@ -15,7 +15,7 @@
 </br>
 
 ## 백준 - 삼성 SW 역량테스트 기출문제
- [백준 삼성전자 기출 링크](https://github.com/Chochanguk/springboot-study/commits/main/hello-spring)
+ [백준 삼성전자 기출 링크](https://www.acmicpc.net/workbook/view/7610)
 
 | 문제 번호 | 유형 | 문제명| 주차 | 1회 풀이 | 2회 풀이 | 3회 풀이 | 풀이 코드 |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | ------- |
