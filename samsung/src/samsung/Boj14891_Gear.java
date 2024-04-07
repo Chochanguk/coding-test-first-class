@@ -74,7 +74,6 @@ public class Boj14891_Gear  {
 		
 		//비즈니스 로직 시작
         for (int i = 0; i < n; i++) {
-            boolean[] rotated = new boolean[4]; // 회전 여부 체크
             int[] dirs = new int[4]; // 각 톱니바퀴의 회전 방향 저장
             dirs[selectedGear[i]] = direction[i]; //선택된 톱니바퀴의 초기 회전 방향 저장
 
@@ -128,6 +127,8 @@ public class Boj14891_Gear  {
 			result+=8;	
 		}
 		System.out.println(result);
+		
+		br.close();
 		
 	}
 }
