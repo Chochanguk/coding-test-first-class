@@ -1,5 +1,4 @@
 package samsung;
-
 import java.io.*;
 import java.util.*;
 
@@ -68,7 +67,6 @@ public class Boj16236_BabyShark {
                     	//상어가 이동 가능한 곳이라 큐에 추가 한다.(상어를 이동시킨다)
                         shark.add(new Node(nx, ny, dist[nx][ny]));
                         //잡아 먹을 수 있는 물고기가 있다면(물고기 크기:1~6인데 이보다 상어 크기가 더 크면)
-     
                         if(1 <= map[nx][ny] && map[nx][ny] <= 6 && map[nx][ny] < sharkSize)
                        	{
                         	//물고기 리스트에 잡아 먹을 후보로 넣는다.(물고기 위치,거리)

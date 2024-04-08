@@ -3,7 +3,7 @@ package samsung;
 import java.util.*;
 import java.io.*;
 
-public class Boj3190Snake {
+public class Boj3190_Snake {
 	static int n;	//맵 크기
 	static int[][] map; //맵 입력
 	
