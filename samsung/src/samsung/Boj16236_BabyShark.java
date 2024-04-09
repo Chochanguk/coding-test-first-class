@@ -51,7 +51,7 @@ public class Boj16236_BabyShark {
             ArrayList<Node> fish = new  ArrayList<>();
             int[][] dist = new int[n][n]; //거리 초기화
             
-            //현재 상어크기로 먹을 수 있는 물고기 후보들을 찾은 후 리스트에 넣는다. 이때 상어가 해당 물고기
+            //현재 상어크기로 먹을 수 있는 물고기 후보들을 찾은 후 리스트에 넣는다.
             while (!shark.isEmpty()) {
             	//상어 정보(큐)
                 Node current = shark.poll();
