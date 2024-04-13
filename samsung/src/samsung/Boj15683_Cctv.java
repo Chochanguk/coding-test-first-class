@@ -90,7 +90,7 @@ public class Boj15683_Cctv {
 			{
 				break;
 			}
-			//cctv이면 마킹
+			//cctv이면 마킹x
 			if(map[nx][ny]>=1&&map[nx][ny]<=5)
 			{
 				continue;
